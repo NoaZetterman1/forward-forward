@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.2
+gensim==4.3.2
+lxml==4.9.3
+nltk==3.8.1
+numpy==1.26.2
+pandas==2.1.0
+pandas-datareader==0.10.0
+pandas-vet==0.2.3
+pathtools==0.1.2
+torch==2.1.1
+torchvision==0.16.1
+tqdm==4.66.1
+wandb==0.15.11
